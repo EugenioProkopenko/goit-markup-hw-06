@@ -208,7 +208,7 @@
 
 /*--------------------------section 4 portfolio----------------*/
 
-.portfolio-container {
+/*.portfolio-container {
   border-top: none;
 }
 .portfolio-list {
@@ -292,7 +292,7 @@
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #434455;*/
 }
 /*-------------------------------footer----------*/
 .container-footer {
@@ -326,7 +326,7 @@
 .pege-footer {
   background-color: #2e2f42;
   padding: 100px 0;
-  display: block;
+  /*display: block;*/
 }
 
 .footer-text {
